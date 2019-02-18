@@ -8,7 +8,7 @@ const client = new Discord.Client();
 
 const prefix = '!';
 
-client.on('ready', () => {
+client.on('ready', (544666229705801728) => {
 
   
     console.log(`Logged in as [ FOIL]`);
