@@ -6,9 +6,9 @@ const client = new Discord.Client();
 
                     
 
-const prefix = '!';
+const prefix = '?';
 
-client.on('ready', () => {
+client.on('ready', (544666229705801728) => {
 
   
     console.log(`Logged in as [ FOIL]`);
@@ -31,8 +31,8 @@ client.on('ready', () => {
 
 
 
-const adminprefix = "!";
-const developers = ['518468852976451614'];
+const adminprefix = "?";
+const developers = ['544666229705801728'];
 
 console.log("FOIL");
 
